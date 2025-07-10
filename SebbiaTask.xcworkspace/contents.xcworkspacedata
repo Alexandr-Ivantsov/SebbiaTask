@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SebbiaTask.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Dependencies">
+      <FileRef
+         location = "group:.build/tuist-derived/Alamofire/Alamofire.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/CacheManagerWithoutKeychain/CacheManagerWithoutKeychain.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/CryptoSwift/CryptoSwift.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/Factory/Factory.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/Moya/Moya.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/Router/Router.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/RxSwift/RxSwift.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/Stevia/Stevia.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
