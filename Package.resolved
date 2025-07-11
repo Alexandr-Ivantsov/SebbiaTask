@@ -1,5 +1,5 @@
 {
-  "originHash" : "9823a21491532b7d1b214a87fd7bb4a64dc5fba6b018784333bc5a14ae51c832",
+  "originHash" : "efa035217025e8bfe89447b369aa52f8054a24ed4dcabfd5261ab31a2d0ce7b3",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
       "state" : {
-        "revision" : "132f5b209cd0251067f29cdb59c97d9f8a63252a",
-        "version" : "1.8.5"
+        "revision" : "e45a26384239e028ec87fbcc788f513b67e10d8f",
+        "version" : "1.9.0"
       }
     },
     {
@@ -60,8 +60,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Alexandr-Ivantsov/Router.git",
       "state" : {
-        "revision" : "7a52539f09e3a6072161a5fe316127296a4caa70",
-        "version" : "1.0.1"
+        "revision" : "0c9e97ad612b05de58863da381db409de2258f17",
+        "version" : "1.0.3"
       }
     },
     {
